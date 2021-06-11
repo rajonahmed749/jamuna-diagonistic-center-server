@@ -57,13 +57,7 @@ client.connect(err => {
 
 
 
-
-
-
   console.log(err);
-
-
-
 
 
 
